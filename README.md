@@ -36,13 +36,19 @@ IDE and Tools I Use:
 <p align="left">
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=datchany" alt="datchany" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=datchany" alt="datchany" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/datchany-rajendiran-792827293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/datchany-rajendiran-792827293/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/datchany/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/datchany/" height="30" width="40" /></a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=datchany&show_icons=true&locale=en&layout=compact" alt="datchany" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=datchany&show_icons=true&locale=en" alt="datchany" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=datchany&" alt="datchany" /></p>
 
 
 
