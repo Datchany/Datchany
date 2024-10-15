@@ -9,8 +9,8 @@
 
 •	💬 Ask me about Web Development, React, or anything Tech! 
 
-•	📫 How to reach me: [ LinkedIn](https://www.linkedin.com/in/datchany-rajendiran-792827293/)
-                                                                                                                                                                  •	😄 Pronouns: Tech Geek  
+•	📫 How to reach me: [ LinkedIn](https://www.linkedin.com/in/datchany-rajendiran-792827293/
+•	😄 Pronouns: Tech Geek  
 
 **I Proficient in**
 <p align="left"> 
