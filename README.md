@@ -5,8 +5,9 @@
 
 •	🔭 Here's my  [ Portfolio]
 
-•	🌱 I’m currently learning **React**                •	💬 Ask me about Web Development, React, or anything Tech!  
-                       •	📫 How to reach me: [ LinkedIn](https://www.linkedin.com/in/datchany-rajendiran-792827293/)
+•	🌱 I’m currently learning **React**                
+•	💬 Ask me about Web Development, React, or anything Tech!  
+•	📫 How to reach me: [ LinkedIn](https://www.linkedin.com/in/datchany-rajendiran-792827293/)
 •	😄 Pronouns: Tech Geek  
 
 **I Proficient in**
