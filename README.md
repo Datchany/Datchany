@@ -4,11 +4,10 @@
                               <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 •	🔭 Here's my  [ Portfolio]
-
-•	🌱 I’m currently learning **React**                
+                •	🌱 I’m currently learning **React**                
 •	💬 Ask me about Web Development, React, or anything Tech!  
 •	📫 How to reach me: [ LinkedIn](https://www.linkedin.com/in/datchany-rajendiran-792827293/)
-•	😄 Pronouns: Tech Geek  
+                       •	😄 Pronouns: Tech Geek  
 
 **I Proficient in**
 <p align="left"> 
