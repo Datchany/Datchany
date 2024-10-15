@@ -30,13 +30,14 @@
 
 
  </p>
-**IDE and Tools I Use**
+IDE and Tools I Use
 
 
 
 <a href="https://www.jetbrains.com/idea/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/idea/idea-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
+    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="IntelliJ IDEA" width="40" height="40"/>
 </a>
+
 
 
 <a href="https://www.figma.com/">
