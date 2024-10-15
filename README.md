@@ -5,7 +5,7 @@
 .🌱 **I’m currently learning**: **Data Structures & Algorithms** and exploring **Spring Boot**  
 .🤔 **I’m looking for help with**: **Placements in MAGFA** 
 .💬 **Ask me about**: **Web Development**, **React**, or anything Tech!  
-.📫 **How to reach me**: [(https://www.linkedin.com/in/datchany-rajendiran-792827293/) | [(mailto:datchanyr@gmail.com)]  
+.📫 **How to reach me**: [ LinkedIn ] 
 
 .😄 **Pronouns**: **Tech Geek**  
 
