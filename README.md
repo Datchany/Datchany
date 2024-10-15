@@ -35,6 +35,12 @@ IDE and Tools I Use:
 <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
 <a href="https://www.jetbrains.com/pycharm/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/></a>
 <p align="left">
+
+ <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/datchany-rajendiran-792827293/" target="blank"></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/datchany/" target="blank"></a>
+</p>
+
  ![LeetCode Stats](https://leetcard.jacoblin.cool/Datchany?theme=dark&font=Fira&ext=activity)
 
 
