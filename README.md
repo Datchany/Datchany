@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Datchany
 
-**Frontend Developer** @svcet  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+**Frontend Developer**   <img align="right" alt="Coding" width="40" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 .🔭 Here's my : [ Portfolio]
 
@@ -28,12 +28,13 @@ I Proficient in
 
  </p>
 IDE and Tools I Use:
-[![IntelliJ IDEA](https://raw.githubusercontent.com/devicons/devicon/master/icons/idea/idea-original.svg)](https://www.jetbrains.com/idea/)
+
 
 
 <a href="https://www.jetbrains.com/idea/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/idea/idea-original.svg" alt="IntelliJIDEA" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/idea/idea-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
 </a>
+
 
 <a href="https://www.figma.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
