@@ -1,13 +1,13 @@
 ## Hi there 👋 It's me Datchany
 
-👨‍💻 **Frontend Developer** @svcet  
-🔭 **Here's my portfolio**: [My Portfolio](https://github.com/Datchany)  
-🌱 **I’m currently learning**: **Data Structures & Algorithms** and exploring **Spring Boot**  
-🤔 **I’m looking for help with**: **Placements in MAGFA** 
-💬 **Ask me about**: **Web Development**, **React**, or anything Tech!  
-📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/datchany-rajendiran-792827293/) | [Email](mailto:datchanyr@gmail.com)  
+**Frontend Developer** @svcet  
+ .🔭 **Here's my portfolio**: [My Portfolio](https://github.com/Datchany)  
+.🌱 **I’m currently learning**: **Data Structures & Algorithms** and exploring **Spring Boot**  
+.🤔 **I’m looking for help with**: **Placements in MAGFA** 
+.💬 **Ask me about**: **Web Development**, **React**, or anything Tech!  
+.📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/datchany-rajendiran-792827293/) | [Email](mailto:datchanyr@gmail.com)  
 
-😄 **Pronouns**: **Tech Geek**  
+.😄 **Pronouns**: **Tech Geek**  
 
 
 <h3 align="left">Connect with me:</h3>
@@ -47,6 +47,6 @@ IDE and Tools I Use
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=datchany&show_icons=true&locale=en" alt="datchany" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=datchany&" alt="datchany" /></p>
+
 
 </a>
