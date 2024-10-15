@@ -1,18 +1,18 @@
 ## Hi there 👋 It's me Datchany
 
 **Frontend Developer**  
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+                              <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
-•	🔭 **Here's my** : [ Portfolio]
+•	🔭 Here's my  [ Portfolio]
 
-•	🌱 **I’m currently learning**: **React**
+•	🌱 I’m currently learning **React**
 
 
-•	💬 **Ask me about**: **Web Development**, **React**, or anything Tech!  
+•	💬 Ask me about Web Development, React, or anything Tech!  
 
-•	📫 **How to reach me**: [ LinkedIn](https://www.linkedin.com/in/datchany-rajendiran-792827293/)
+•	📫 How to reach me: [ LinkedIn](https://www.linkedin.com/in/datchany-rajendiran-792827293/)
 
-•	😄 **Pronouns**: **Tech Geek**  
+•	😄 Pronouns: Tech Geek  
 
 **I Proficient in**
 <p align="left"> 
@@ -25,35 +25,17 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
- 
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
+ <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
 
 
  </p>
 IDE and Tools I Use
 
-
-
-<a href="https://www.jetbrains.com/idea/">
-    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="IntelliJ IDEA" width="40" height="40"/>
-</a>
-
-
-
-<a href="https://www.figma.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-</a>
-
-<a href="https://code.visualstudio.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</a>
-
-<a href="https://www.jetbrains.com/pycharm/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
+<a href="https://www.jetbrains.com/idea/"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="IntelliJ IDEA" width="40" height="40"/></a>
+<a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/></a>
+<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+<a href="https://www.jetbrains.com/pycharm/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/></a>
 <p align="left">
  
 <p align="left">
@@ -62,7 +44,7 @@ IDE and Tools I Use
 </p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Datchany?theme=dark&font=Fira&ext=activity)
-</a>
+
 
 
 	
