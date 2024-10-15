@@ -43,10 +43,7 @@ IDE and Tools I Use
 
 
 📊 **Leetcode Stats**: [[Link to Leetcode Profile](https://leetcode.com/u/Datchany/)]  
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/datchany-rajendiran-792827293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/datchany-rajendiran-792827293/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/datchany/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/datchany/" height="30" width="40" /></a>
-</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=datchany&show_icons=true&locale=en&layout=compact" alt="datchany" /></p>
 
