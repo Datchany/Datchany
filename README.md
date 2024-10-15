@@ -2,7 +2,7 @@
 
 **Frontend Developer** @svcet  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
-.🔭 Here's my : [ Portfolio](https://github.com/Datchany)  
+.🔭 Here's my : [ Portfolio]
 
 .🌱 **I’m currently learning**: **React**
 
@@ -28,6 +28,7 @@ I Proficient in
 
  </p>
 IDE and Tools I Use:
+[![IntelliJ IDEA](https://raw.githubusercontent.com/devicons/devicon/master/icons/idea/idea-original.svg)](https://www.jetbrains.com/idea/)
 
 
 <a href="https://www.jetbrains.com/idea/">
