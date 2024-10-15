@@ -1,6 +1,7 @@
 ## Hi there 👋 It's me Datchany
 
-**Frontend Developer**   <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+**Frontend Developer**  
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 •	🔭 **Here's my** : [ Portfolio]
 
@@ -25,7 +26,8 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
  
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://react.dev/img/header_logo.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
+
 
  </p>
 **IDE and Tools I Use**
@@ -54,8 +56,8 @@
 <p align="left">
  
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/datchany-rajendiran-792827293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/datchany-rajendiran-792827293/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/datchany/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/datchany/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/datchany-rajendiran-792827293/" target="blank"></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/datchany/" target="blank"></a>
 </p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Datchany?theme=dark&font=Fira&ext=activity)
