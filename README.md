@@ -43,6 +43,7 @@ IDE and Tools I Use
 </p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Datchany?theme=dark&font=Fira&ext=activity)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=github)
 
 
 
